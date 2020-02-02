@@ -7,8 +7,12 @@ https://homebrew-file.readthedocs.io/en/latest/getting_started.html
 ssh-add -A
 ```
 # Then set repo with
-$ brew set_repo
-$ git@github.com:Daddy-Badger/Brewfile.git
+```sh
+brew set_repo
+```
+Use git@github.com:Daddy-Badger/Brewfile.git
 
 # Initialise repo
-$ brew file install
+```sh
+brew file install
+```
