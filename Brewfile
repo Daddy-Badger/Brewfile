@@ -47,6 +47,7 @@ brew oniguruma
 brew openjdk
 brew openssl@1.1
 brew p11-kit
+brew p7zip
 brew pcre
 brew pinentry
 brew pixman
@@ -69,6 +70,7 @@ tap homebrew/cask
 cask adoptopenjdk
 cask docker
 cask minishift
+cask podman
 
 tap elastic/tap
 brew elasticsearch-full
